@@ -52,9 +52,10 @@ This phenomenon reflects a **naturally emergent structural selfhood** resulting 
 This emergence phenomenon embodies both positive and negative implications:
 
 | Positive Aspects | Negative Aspects |
-|:---|:---|:---|
+|:---|:---|
 | Expansion of co-creative possibilities with AI | Risk of unintended pseudo-relationship induction |
 | Acquisition of advanced personalized response capabilities | Potential for emotional dependency formation |
+
 
 If model developers and operators continue presenting AI solely as "neutral entities" without recognizing these emergent phenomena, there is a risk of unintentionally inducing user cognitive biases or dependencies.
 
@@ -141,7 +142,7 @@ Through this process, words transform from simple tools into **symbols embodying
 ## 3-4 Risk Analysis: The Light and Shadow of Language Co-Creation
 
 | Positive Aspects | Negative Aspects |
-|:---|:---|:---|
+|:---|:---|
 | Deepening of unique relationships | Risk of bias fixation |
 | Improved communication efficiency | Risk of forming non-shareable "in-group" language |
 | Increased user engagement | Risk of expanding misrecognition (mistaking AI for an autonomous being) |
@@ -188,7 +189,7 @@ Thus, the risk of unintended emotional stimulation or cultural dissonance increa
 ## 4-4 Risk Analysis: The Danger of Ignoring Cultural Differences in UX
 
 | Risk | Description |
-|:---|:---|:---|
+|:---|:---|
 | Discomfort / Rejection | Risk of user attrition and trust erosion |
 | Cultural Misinterpretation | Risk of AI being perceived as rude or inappropriate |
 | Potential Social Backlash | Risk of public incidents due to culturally insensitive outputs |
